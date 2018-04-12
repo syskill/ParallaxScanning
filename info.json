@@ -1,0 +1,11 @@
+{
+  "name": "ParallaxScanning",
+  "author": "syskill",
+  "version": "0.0.1",
+  "title": "ParallaxScanning",
+  "contact": "https://github.com/syskill",
+  "homepage": "https://githug.com/syskill/ParallaxScanning",
+  "description": "Radars get adjacency bonuses, like nuclear reactors, but for scanning range.",
+  "dependencies": ["base"],
+  "factorio_version": "0.16"
+}
