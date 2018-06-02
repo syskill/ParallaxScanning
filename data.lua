@@ -3,7 +3,7 @@ data:extend
   {
     type = "technology",
     name = "parallax-scanning-1",
-    icon = "__ParallaxScanning__/radar-parallax.png",
+    icon = "__RadarSynergy__/radar-parallax.png",
     icon_size = 128,
     effects =
     {
@@ -30,7 +30,7 @@ data:extend
   {
     type = "technology",
     name = "parallax-scanning-2",
-    icon = "__ParallaxScanning__/radar-parallax.png",
+    icon = "__RadarSynergy__/radar-parallax.png",
     icon_size = 128,
     effects =
     {
@@ -57,7 +57,7 @@ data:extend
   {
     type = "technology",
     name = "parallax-scanning-3",
-    icon = "__ParallaxScanning__/radar-parallax.png",
+    icon = "__RadarSynergy__/radar-parallax.png",
     icon_size = 128,
     effects =
     {
